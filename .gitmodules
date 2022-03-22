@@ -1,0 +1,3 @@
+[submodule "lib/shell-utils"]
+	path = lib/shell-utils
+	url = https://github.com/clio-finance/shell-utils.git
